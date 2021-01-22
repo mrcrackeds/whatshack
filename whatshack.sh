@@ -4,7 +4,7 @@ echo "
  <-- Mahiska Cyber Team --> 
 ############################
 #     Whatsapp Exploit     # By Mr.Cracked
-#       Log Listener       # mrcracked21@gmail.com
+#       Log Listener       # icambusiness123@gmail.com
 ############################
 
 Copyright (c) 2020 Mr.Cracked";
